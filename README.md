@@ -11,6 +11,29 @@
   </p>
 </div>
 
+## 界面预览
+
+![行迹年度概览](docs/images/overview.jpg)
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/images/calendar.jpg" alt="行迹月日历，以颜色和路线展示每日所在城市与移动方式" />
+      <br />
+      <sub><strong>日历回看</strong>：移动日展示完整路线，停留日延续所在城市。</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/images/province-map.jpg" alt="行迹中国省域足迹地图，按主要出行目的为到访地区着色" />
+      <br />
+      <sub><strong>省域足迹</strong>：按主要停留目的着色，并汇总停留天数与到访次数。</sub>
+    </td>
+  </tr>
+</table>
+
+![行迹移动记录列表](docs/images/records.jpg)
+
+> 截图使用完全虚构的演示行程生成，不包含维护者或任何用户的真实轨迹。
+
 ## 产品定位
 
 行迹用于记录“某一天如何从一个地方移动到另一个地方”，并由移动记录推导停留地点、出行目的和时间分布。它不是社交平台，也不是云同步服务；账户、服务器和在线地图都不是运行所必需的。
