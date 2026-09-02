@@ -11,28 +11,43 @@
   </p>
 </div>
 
-## 界面预览
+<p align="center">
+  <img src="docs/images/overview.png" alt="行迹年度概览：落脚地、覆盖天数、到访城市和出行目的统计" width="1000" />
+</p>
 
-![行迹年度概览](docs/images/overview.jpg)
+<p align="center"><sub>界面中的路线与统计均由虚构演示行程生成，不包含任何用户的真实轨迹。</sub></p>
+
+## 核心体验
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="docs/images/calendar.jpg" alt="行迹月日历，以颜色和路线展示每日所在城市与移动方式" />
-      <br />
-      <sub><strong>日历回看</strong>：移动日展示完整路线，停留日延续所在城市。</sub>
+    <td width="34%" valign="middle">
+      <h3>日历回看</h3>
+      <p>用颜色看出行目的，用路线看移动过程。没有移动的日期会自然延续上一落脚城市。</p>
     </td>
-    <td width="50%">
-      <img src="docs/images/province-map.jpg" alt="行迹中国省域足迹地图，按主要出行目的为到访地区着色" />
-      <br />
-      <sub><strong>省域足迹</strong>：按主要停留目的着色，并汇总停留天数与到访次数。</sub>
+    <td width="66%">
+      <img src="docs/images/calendar.png" alt="行迹月日历，以颜色和路线展示每日所在城市与移动方式" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="middle">
+      <h3>省域足迹</h3>
+      <p>去过的省级行政区会留下颜色，并按主要停留目的汇总天数、到访次数与涉及城市。</p>
+    </td>
+    <td width="66%">
+      <img src="docs/images/province-map.png" alt="行迹中国省域足迹地图，按主要出行目的为到访地区着色" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="middle">
+      <h3>逐日行迹</h3>
+      <p>同一天可以连续记录多个地点和不同交通方式；每条记录都能搜索、筛选、编辑或删除。</p>
+    </td>
+    <td width="66%">
+      <img src="docs/images/records.png" alt="行迹移动记录列表，展示多段路线、交通方式和出行目的" width="100%" />
     </td>
   </tr>
 </table>
-
-![行迹移动记录列表](docs/images/records.jpg)
-
-> 截图使用完全虚构的演示行程生成，不包含维护者或任何用户的真实轨迹。
 
 ## 产品定位
 
